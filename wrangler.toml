@@ -1,0 +1,10 @@
+name = "gongcun"
+main = "_worker.js"
+compatibility_date = "2024-11-01"
+
+[vars]
+L = "admin"
+
+[[kv_namespaces]]
+binding = "K"
+id = "0373ba14de2d486881436814449f0dc8"
